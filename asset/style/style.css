@@ -1,0 +1,98 @@
+.navbar-brand{
+    padding: 20px;
+ 
+  background-color: #4aaaa5;
+   font-family:'Georgia', Times, 'Times New Roman', serif;
+   border-color: #cccccc;
+   margin-left: 200px;
+   width: 25%;
+    
+}
+.center{
+     text-align: center;
+}
+    .font{
+         text-align: center;
+      font-family: Arial, Helvetica, sans-serif;
+      padding-top: 20px;
+         
+    }
+
+
+
+img{
+    width: 100px;
+    
+}
+.content {
+    background-color: #e6e6e6;
+
+}
+
+.display{
+    padding: 100px;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    ;
+}
+.font{
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    ;
+}
+hr{
+    color: black;
+}
+
+.footer{
+    background-color: gray;
+}
+
+h3{
+    color: white;
+font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+text-align: center;
+padding: 1.5rem;
+}
+body{
+    background-image: url();
+}
+
+
+/* second page */
+
+.next{
+    padding-left: 50px;
+}
+.contact-heading{
+    padding-inline-start: 0%;
+    color: #4aaaa5;
+   font-family:'Georgia', Times, 'Times New Roman', serif
+}
+.btn-1{
+    background-color:#4aaaa5; 
+   margin-top: 20px;
+}
+.image-port{
+    width: 40%;
+    padding: 30px;
+    margin: 20px;
+
+}
+.last{
+    padding-right: 200px;
+    background-color: #e6e6e6;;
+
+}
+h2{
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    color: #4aaaa5; 
+    padding-left: 100px;
+}
+
+.copy{
+    text-align: end;
+    padding-left: 30%;
+}
+h5{
+    margin-left: 700%;
+    color: white;
+}
