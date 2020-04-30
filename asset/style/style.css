@@ -1,98 +1,97 @@
-.navbar-brand{
-    padding: 20px;
- 
-  background-color: #4aaaa5;
-   font-family:'Georgia', Times, 'Times New Roman', serif;
-   border-color: #cccccc;
-   margin-left: 200px;
-   width: 25%;
-    
-}
-.center{
-     text-align: center;
-}
-    .font{
-         text-align: center;
-      font-family: Arial, Helvetica, sans-serif;
-      padding-top: 20px;
-         
-    }
 
-
-
-img{
-    width: 100px;
-    
-}
-.content {
-    background-color: #e6e6e6;
-
-}
-
-.display{
-    padding: 100px;
-    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
-    ;
-}
-.font{
-    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
-    ;
-}
-hr{
-    color: black;
-}
-
-.footer{
-    background-color: gray;
-}
-
-h3{
-    color: white;
-font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
-text-align: center;
-padding: 1.5rem;
-}
 body{
-    background-image: url();
+  background-color: lightgrey;  
 }
 
-
-/* second page */
-
-.next{
-    padding-left: 50px;
+.header{
+   padding-left: 114;
+   padding-top: 30px;
+   padding-right: 0px;
 }
-.contact-heading{
-    padding-inline-start: 0%;
-    color: #4aaaa5;
-   font-family:'Georgia', Times, 'Times New Roman', serif
+.container-fluid{
+   background-color: white;
 }
-.btn-1{
-    background-color:#4aaaa5; 
-   margin-top: 20px;
-}
-.image-port{
-    width: 40%;
-    padding: 30px;
-    margin: 20px;
-
-}
-.last{
-    padding-right: 200px;
-    background-color: #e6e6e6;;
-
-}
-h2{
-    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
-    color: #4aaaa5; 
-    padding-left: 100px;
+.nav-lin:hover{
+color: lightpink;
 }
 
-.copy{
-    text-align: end;
-    padding-left: 30%;
+h1{
+  padding:5px 20px 5px 20px;
+   text-align: center;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   font-weight: 100;
+   font-size: 3rem;
 }
-h5{
-    margin-left: 700%;
-    color: white;
+.navbar-brand{
+   background-color: #4aaaa5;
+   margin-left: 30px;
+}
+.navbar{
+   padding-left: 30%;
+}
+.col-sm-6{
+   background-color: white;
+}
+
+.nav-link{
+   color:lightslategrey
+}
+.con-color{
+   background-color: white;
+   padding: 0px 50px 50px 50px;; 
+}
+.img-fluid{
+   text-align: center;
+   margin: 1.5rem;
+   
+}
+
+.image{
+   
+   width: 30%;
+   padding-right: 30px;
+   border-radius: 1rem;;
+   float: left;
+
+}
+footer{
+   background-color: gray;
+   text-align: center;
+    padding: rem;
+}
+.img-fluid:hover{
+  background-color: lightslategray;
+} 
+h1:hover{
+   opacity: .2;
+  
+}
+.head-title:hover{
+ font-family: 'Times New Roman', Times, serif;
+ 
+}
+.nav-link:hover{
+  background-color: lightslategray;
+}
+.img-fluid{
+   padding: 1.5rem;
+   height: 20rem;
+   
+}
+@media only screen and (max-width:700px){
+   .image{
+       float: none;
+  
+   }
+   .
+}
+/* contact */
+
+.container{
+   background-color: white;
+   padding: 5rem;
+}
+.contact{
+padding-top: 15rem;
+
 }
